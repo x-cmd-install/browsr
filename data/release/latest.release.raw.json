@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 30855,
       "digest": "sha256:e3238e26ab1eafe79a1d1fd89059969beddcd5a4235ab7fb9fab328c10f0a3c9",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-04-22T04:28:09Z",
       "updated_at": "2026-04-22T04:28:09Z",
       "browser_download_url": "https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0-py3-none-any.whl"

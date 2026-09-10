@@ -12,6 +12,18 @@
 x install browsr
 ```
 
+## 代码规模
+
+合计: **5,494** 行代码（覆盖前 5 种语言、共 **43** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 2,878 | 21 | 437 | 31 |
+| Yaml | 1,607 | 22 | 3 | 7 |
+| Svg | 742 | 3 | 21 | 3 |
+| Toml | 172 | 9 | 16 | 1 |
+| Css | 95 | 8 | 25 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/juftin/browsr>
@@ -23,13 +35,6 @@ x install browsr
 - **最新版本**: `v1.24.0` (2026-04-22)
 - **最近提交**: 2026-04-22
 - **Release 含资产**: 2 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [browsr-1.24.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0-py3-none-any.whl) | 30.1 KiB | `other` |
-| [browsr-1.24.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0.tar.gz) | 8.9 MiB | `native/unknown` |
 
 ## 流行度
 
@@ -44,20 +49,26 @@ x install browsr
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 2 | 3 | 0 | 0 | 0 | 6 |
 | 360d | 2025-09-15 | 2 | 3 | 1 | 2 | 0 | 6 |
+| last720d | 2024-09-20 | 4 | 5 | 3 | 2 | 0 | 17 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,494** 行代码（覆盖前 5 种语言、共 **43** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [browsr-1.24.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0-py3-none-any.whl) | 30.1 KiB | `other` |
+| [browsr-1.24.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0.tar.gz) | 8.9 MiB | `native/unknown` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 2,878 | 21 | 437 | 31 |
-| Yaml | 1,607 | 22 | 3 | 7 |
-| Svg | 742 | 3 | 21 | 3 |
-| Toml | 172 | 9 | 16 | 1 |
-| Css | 95 | 8 | 25 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/browsr) 上共有 **7** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `1.22.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -68,4 +79,4 @@ browsr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:43:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:02:16Z._

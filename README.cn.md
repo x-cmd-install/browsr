@@ -4,7 +4,7 @@
 
 🗂️ a pleasant file explorer in your terminal supporting all filesystems
 
-![browsr](https://repo.x-cmd.io/browsr.svg)
+![browsr](https://repo.x-cmd.io/browsr.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,13 @@ x install browsr
 - **最新版本**: `v1.24.0` (2026-04-22)
 - **最近提交**: 2026-04-22
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-04-22T04:28:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [browsr-1.24.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0-py3-none-any.whl) | 30.1 KiB | `other` |
+| [browsr-1.24.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0.tar.gz) | 8.9 MiB | `native/unknown` |
 
 ## 流行度
 
@@ -62,4 +68,4 @@ browsr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:43:35Z._

@@ -48,12 +48,12 @@ Total: **5,494** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 2 | 3 | 0 | 0 | 0 | 6 |
-| 360d | 2025-09-16 | 2 | 3 | 1 | 2 | 0 | 6 |
-| last720d | 2024-09-21 | 4 | 5 | 3 | 2 | 0 | 17 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 2 | 3 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-18 | 2 | 3 | 1 | 2 | 0 | 6 |
+| last720d | 2024-09-23 | 4 | 5 | 3 | 2 | 0 | 17 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for browsr lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:51:41Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:00:54Z._

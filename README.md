@@ -38,7 +38,7 @@ Total: **5,494** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 646 · **Forks**: 30 · **Open issues**: 22 · **Contributors**: 3
+- **Stars**: 647 · **Forks**: 30 · **Open issues**: 22 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **5,494** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 2 | 3 | 0 | 0 | 0 | 6 |
-| 360d | 2025-09-18 | 2 | 3 | 1 | 2 | 0 | 6 |
-| last720d | 2024-09-23 | 4 | 5 | 3 | 2 | 0 | 17 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 2 | 3 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-19 | 2 | 3 | 1 | 2 | 0 | 6 |
+| last720d | 2024-09-24 | 4 | 5 | 3 | 2 | 0 | 17 |
 
 ## Release assets
 
@@ -61,14 +61,6 @@ Total: **5,494** lines of code across **43** files in the top 5 languages.
 |-------|-----:|--------|
 | [browsr-1.24.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0-py3-none-any.whl) | 30.1 KiB | `other` |
 | [browsr-1.24.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0.tar.gz) | 8.9 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/browsr). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.22.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -79,4 +71,4 @@ Install metadata for browsr lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:00:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:03:27Z._

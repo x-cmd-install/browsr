@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9382198,
       "digest": "sha256:e3d5312be8502d101621d774802f24c49ce4fa6c40a4440289af71d59b583f18",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-04-22T04:28:09Z",
       "updated_at": "2026-04-22T04:28:10Z",
       "browser_download_url": "https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0.tar.gz"

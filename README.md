@@ -14,14 +14,14 @@ x install browsr
 
 ## Code insight
 
-Total: **5,494** lines of code across **43** files in the top 5 languages.
+Total: **5,531** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 2,878 | 21 | 437 | 31 |
+| Python | 2,913 | 22 | 445 | 32 |
 | Yaml | 1,607 | 22 | 3 | 7 |
 | Svg | 742 | 3 | 21 | 3 |
-| Toml | 172 | 9 | 16 | 1 |
+| Toml | 174 | 9 | 16 | 1 |
 | Css | 95 | 8 | 25 | 1 |
 
 ## Source
@@ -32,35 +32,35 @@ Total: **5,494** lines of code across **43** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.24.0` (2026-04-22)
-- **Last commit**: 2026-04-22
+- **Latest**: `v1.25.0` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 649 · **Forks**: 34 · **Open issues**: 23 · **Contributors**: 3
+- **Stars**: 648 · **Forks**: 34 · **Open issues**: 23 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 27 · **Open PRs**: 3 · **Closed issues**: 15 · **Open issues**: 8 · **Commits**: 112
+- **Releases**: 40 · **Merged PRs**: 28 · **Open PRs**: 2 · **Closed issues**: 16 · **Open issues**: 7 · **Commits**: 114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-04-29 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-10-31 | 2 | 3 | 2 | 1 | 1 | 6 |
-| last720d | 2024-11-05 | 4 | 5 | 3 | 2 | 1 | 17 |
+| 30d | 2026-09-27 | 1 | 1 | 1 | 1 | 0 | 2 |
+| last60d | 2026-08-28 | 1 | 1 | 1 | 1 | 0 | 2 |
+| 90d | 2026-07-29 | 1 | 1 | 1 | 1 | 0 | 2 |
+| last180d | 2026-04-30 | 1 | 1 | 1 | 1 | 0 | 2 |
+| 360d | 2025-11-01 | 3 | 4 | 1 | 2 | 0 | 8 |
+| last720d | 2024-11-06 | 5 | 6 | 2 | 3 | 0 | 19 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [browsr-1.24.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0-py3-none-any.whl) | 30.1 KiB | `other` |
-| [browsr-1.24.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.24.0/browsr-1.24.0.tar.gz) | 8.9 MiB | `native/unknown` |
+| [browsr-1.25.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.25.0/browsr-1.25.0-py3-none-any.whl) | 30.1 KiB | `other` |
+| [browsr-1.25.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.25.0/browsr-1.25.0.tar.gz) | 9.0 MiB | `native/unknown` |
 
 ## Distribution status
 
@@ -79,4 +79,4 @@ Install metadata for browsr lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:49:05Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:07:28Z._

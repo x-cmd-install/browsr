@@ -14,11 +14,11 @@ x install browsr
 
 ## 代码洞察
 
-合计: **5,531** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
+合计: **6,395** 行代码（覆盖前 5 种语言、共 **47** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 2,913 | 22 | 445 | 32 |
+| Python | 3,777 | 25 | 535 | 35 |
 | Yaml | 1,607 | 22 | 3 | 7 |
 | Svg | 742 | 3 | 21 | 3 |
 | Toml | 174 | 9 | 16 | 1 |
@@ -32,8 +32,8 @@ x install browsr
 
 ## 发布
 
-- **最新版本**: `v1.25.0` (2026-10-26)
-- **最近提交**: 2026-10-26
+- **最新版本**: `v1.26.0` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 2 个
 
 ## 流行度
@@ -42,25 +42,25 @@ x install browsr
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 28 · **开放 PR**: 2 · **已关闭 issue**: 16 · **开放 issue**: 7 · **提交数**: 114
+- **发布数**: 41 · **已合并 PR**: 29 · **开放 PR**: 1 · **已关闭 issue**: 17 · **开放 issue**: 6 · **提交数**: 116
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 1 | 1 | 1 | 0 | 2 |
-| last60d | 2026-08-28 | 1 | 1 | 1 | 1 | 0 | 2 |
-| 90d | 2026-07-29 | 1 | 1 | 1 | 1 | 0 | 2 |
-| last180d | 2026-04-30 | 1 | 1 | 1 | 1 | 0 | 2 |
-| 360d | 2025-11-01 | 3 | 4 | 1 | 2 | 0 | 8 |
-| last720d | 2024-11-06 | 5 | 6 | 2 | 3 | 0 | 19 |
+| 30d | 2026-09-28 | 2 | 2 | 0 | 1 | 0 | 4 |
+| last60d | 2026-08-29 | 2 | 2 | 0 | 1 | 0 | 4 |
+| 90d | 2026-07-30 | 2 | 2 | 0 | 1 | 0 | 4 |
+| last180d | 2026-05-01 | 2 | 2 | 0 | 1 | 0 | 4 |
+| 360d | 2025-11-02 | 4 | 5 | 0 | 2 | 0 | 10 |
+| last720d | 2024-11-07 | 6 | 7 | 1 | 3 | 0 | 21 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [browsr-1.25.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.25.0/browsr-1.25.0-py3-none-any.whl) | 30.1 KiB | `other` |
-| [browsr-1.25.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.25.0/browsr-1.25.0.tar.gz) | 9.0 MiB | `native/unknown` |
+| [browsr-1.26.0-py3-none-any.whl](https://github.com/juftin/browsr/releases/download/v1.26.0/browsr-1.26.0-py3-none-any.whl) | 36.3 KiB | `other` |
+| [browsr-1.26.0.tar.gz](https://github.com/juftin/browsr/releases/download/v1.26.0/browsr-1.26.0.tar.gz) | 9.2 MiB | `native/unknown` |
 
 ## 发行版状态
 
@@ -79,4 +79,4 @@ browsr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:07:28Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:47:57Z._

@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/juftin/browsr/releases/424543014",
-  "assets_url": "https://api.github.com/repos/juftin/browsr/releases/424543014/assets",
-  "upload_url": "https://uploads.github.com/repos/juftin/browsr/releases/424543014/assets{?name,label}",
-  "html_url": "https://github.com/juftin/browsr/releases/tag/v1.25.0",
-  "id": 424543014,
+  "url": "https://api.github.com/repos/juftin/browsr/releases/426252536",
+  "assets_url": "https://api.github.com/repos/juftin/browsr/releases/426252536/assets",
+  "upload_url": "https://uploads.github.com/repos/juftin/browsr/releases/426252536/assets{?name,label}",
+  "html_url": "https://github.com/juftin/browsr/releases/tag/v1.26.0",
+  "id": 426252536,
   "author": {
     "login": "juftin",
     "id": 49741340,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJeLkN84ZTgMm",
-  "tag_name": "v1.25.0",
+  "node_id": "RE_kwDOJeLkN84ZaBj4",
+  "tag_name": "v1.26.0",
   "target_commitish": "main",
-  "name": "v1.25.0",
+  "name": "v1.26.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-26T17:15:20Z",
-  "updated_at": "2026-10-26T17:15:28Z",
-  "published_at": "2026-10-26T17:15:28Z",
+  "created_at": "2026-10-28T04:08:52Z",
+  "updated_at": "2026-10-28T04:09:00Z",
+  "published_at": "2026-10-28T04:09:00Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/juftin/browsr/releases/assets/678877437",
-      "id": 678877437,
-      "node_id": "RA_kwDOJeLkN84odtj9",
-      "name": "browsr-1.25.0-py3-none-any.whl",
+      "url": "https://api.github.com/repos/juftin/browsr/releases/assets/683777916",
+      "id": 683777916,
+      "node_id": "RA_kwDOJeLkN84owZ98",
+      "name": "browsr-1.26.0-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "juftin",
@@ -65,18 +65,18 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 30857,
-      "digest": "sha256:f621b3c3067acb6665e871bffa757ffc607e8284fc5e235a60e8984c1d427038",
-      "download_count": 3,
-      "created_at": "2026-10-26T17:15:26Z",
-      "updated_at": "2026-10-26T17:15:26Z",
-      "browser_download_url": "https://github.com/juftin/browsr/releases/download/v1.25.0/browsr-1.25.0-py3-none-any.whl"
+      "size": 37130,
+      "digest": "sha256:cb93d63496a10ac3814636967ac1fe4ae61fd97985514e0608ecf0c3f3c2a39a",
+      "download_count": 1,
+      "created_at": "2026-10-28T04:08:57Z",
+      "updated_at": "2026-10-28T04:08:58Z",
+      "browser_download_url": "https://github.com/juftin/browsr/releases/download/v1.26.0/browsr-1.26.0-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/juftin/browsr/releases/assets/678877463",
-      "id": 678877463,
-      "node_id": "RA_kwDOJeLkN84odtkX",
-      "name": "browsr-1.25.0.tar.gz",
+      "url": "https://api.github.com/repos/juftin/browsr/releases/assets/683777947",
+      "id": 683777947,
+      "node_id": "RA_kwDOJeLkN84owZ-b",
+      "name": "browsr-1.26.0.tar.gz",
       "label": "",
       "uploader": {
         "login": "juftin",
@@ -101,15 +101,15 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 9415245,
-      "digest": "sha256:63e37c368220033c083a5d9e93bba529306e1df1cbccf0f92fd51ac68790eb3d",
-      "download_count": 3,
-      "created_at": "2026-10-26T17:15:26Z",
-      "updated_at": "2026-10-26T17:15:27Z",
-      "browser_download_url": "https://github.com/juftin/browsr/releases/download/v1.25.0/browsr-1.25.0.tar.gz"
+      "size": 9658910,
+      "digest": "sha256:74267d4783a65049de4ba4ded0aba97c22418d9225c59b8147b4ef31f786b5d7",
+      "download_count": 1,
+      "created_at": "2026-10-28T04:08:58Z",
+      "updated_at": "2026-10-28T04:09:00Z",
+      "browser_download_url": "https://github.com/juftin/browsr/releases/download/v1.26.0/browsr-1.26.0.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/juftin/browsr/tarball/v1.25.0",
-  "zipball_url": "https://api.github.com/repos/juftin/browsr/zipball/v1.25.0",
-  "body": "# [v1.25.0](https://github.com/juftin/browsr/compare/v1.24.0...v1.25.0) (2026-10-26)\n\n## ✨ New Features\n- [`77992e2`](https://github.com/juftin/browsr/commit/77992e2)  Python 3.15 support (#61) (Issues: [`#61`](https://github.com/juftin/browsr/issues/61))\n\n"
+  "tarball_url": "https://api.github.com/repos/juftin/browsr/tarball/v1.26.0",
+  "zipball_url": "https://api.github.com/repos/juftin/browsr/zipball/v1.26.0",
+  "body": "# [v1.26.0](https://github.com/juftin/browsr/compare/v1.25.0...v1.26.0) (2026-10-28)\n\n## ✨ New Features\n- [`fccc16f`](https://github.com/juftin/browsr/commit/fccc16f)  Add a read-only SQLite viewer (#60) (Issues: [`#60`](https://github.com/juftin/browsr/issues/60))\n\n"
 }

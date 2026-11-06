@@ -38,7 +38,7 @@ Total: **6,395** lines of code across **47** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 649 · **Forks**: 34 · **Open issues**: 23 · **Contributors**: 4
+- **Stars**: 648 · **Forks**: 34 · **Open issues**: 23 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **6,395** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 2 | 0 | 1 | 0 | 4 |
-| last60d | 2026-09-06 | 2 | 2 | 0 | 1 | 0 | 4 |
-| 90d | 2026-08-07 | 2 | 2 | 0 | 1 | 0 | 4 |
-| last180d | 2026-05-09 | 2 | 2 | 0 | 1 | 0 | 4 |
-| 360d | 2025-11-10 | 4 | 5 | 0 | 2 | 0 | 10 |
-| last720d | 2024-11-15 | 6 | 7 | 1 | 3 | 0 | 21 |
+| 30d | 2026-10-07 | 2 | 2 | 0 | 1 | 0 | 4 |
+| last60d | 2026-09-07 | 2 | 2 | 0 | 1 | 0 | 4 |
+| 90d | 2026-08-08 | 2 | 2 | 0 | 1 | 0 | 4 |
+| last180d | 2026-05-10 | 2 | 2 | 0 | 1 | 0 | 4 |
+| 360d | 2025-11-11 | 4 | 5 | 0 | 2 | 0 | 10 |
+| last720d | 2024-11-16 | 6 | 7 | 1 | 3 | 0 | 21 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for browsr lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:54:23Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:46:36Z._
